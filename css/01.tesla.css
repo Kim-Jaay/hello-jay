@@ -1,0 +1,29 @@
+.section01 #header {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.section01 {
+    position: relative;
+    background: url(../img/01.tesla/sectionbgimg.jpg)no-repeat center center/cover;
+    height: 1000px;
+}
+
+#header {
+    line-height: 100px;
+}
+
+#header nav>ul {
+    display: flex;
+    gap: 40px;
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.section02 {
+    background: url(../img/01.tesla/section02bgimg.jpg)no-repeat center center/cover;
+    height: 890px;
+}
