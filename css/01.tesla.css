@@ -27,3 +27,15 @@
     background: url(../img/01.tesla/section02bgimg.jpg)no-repeat center center/cover;
     height: 890px;
 }
+
+.section03 {
+    width: 1200px;
+}
+
+.section03 .container03 h2 {
+    font-size: 30px;
+}
+
+.section03 .container03 figure {
+    display: flex;
+}
